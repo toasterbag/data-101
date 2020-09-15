@@ -1,0 +1,47 @@
+[ Förord ](foreword.md)
+[ Mottagningen ](mottagningen.md)
+
+# Studieguide
+  - [ Inledning ](studies/summary.md)
+  - [ Att välja kurser under kandidaten ](studies/selecting-bachelors-courses.md)
+  - [ Att välja masterprogram ](studies/selecting-a-master-programme.md)
+  - [ Att välja masterkurser ](studies/selecting-master-courses.md)
+    - [ Algorithms, Logic and Languages ](studies/selecting-master-courses/mpalg.md)
+    - [ Computer Systems and Networks ](studies/selecting-master-courses/mpcsn.md)
+    - [ High-Performance Computing ](studies/selecting-master-courses/mphpc.md)
+    - [ Icke-ackrediterade program](studies/selecting-non-accredited-programs)
+  - [ FAQ ](studies/faq.md)
+  - [ Har du problem med studierna ](studies/problems.md)
+    - [ Bra att veta innan man pratar med SYV ](studies/SYV.md)
+
+  - [ Kurser ](courses/index.md)
+    - [ TDA555	Introduktion till funktionell programmering ](courses/TDA555.md)
+    - [ TMV210	Inledande diskret matematik ](courses/TMV210.md)
+    - [ EDA452	Grundläggande datorteknik ](courses/EDA452.md)
+    - [ TMV216	Linjär algebra ](courses/TMV216.md)
+    - [ DAT043	Objektorienterad programmering ](courses/DAT043.md)
+    - [ TMV170	Matematisk analys ](courses/TMV170.md)
+    - [ EDA343	Datakommunikation ](courses/EDA343.md)
+    - [ EDA482	Maskinorienterad programmering ](courses/EDA482.md)
+
+    - [ DAT290	Datatekniskt projekt ](courses/DAT290.md)
+    - [ MVE055	Matematisk statistik och diskret matematik ](courses/MVE055.md)
+    - [ DAT037	Datastrukturer ](courses/DAT037.md)
+    - [ TIF085	Fysik för ingenjörer ](courses/TIF085.md)
+    - [ DAT326	Matematikens domänspecifika språk ](courses/DAT326.md)
+    - [ TDA384	Principer för parallell programmering ](courses/TDA384.md)
+    - [ EDA322	Digital konstruktion ](courses/EDA322.md)
+    - [ EDA332	Datorsystemteknik ](courses/EDA332.md)
+    - [ EEM076	Elektriska kretsar och fält ](courses/EEM076.md)
+
+    - [ SSY080	Transformer, signaler och system ](courses/SSY080.md)
+    - [ TDA384	Principer för parallell programmering ](courses/TDA384.md)
+    - [ ENM156	Hållbar utveckling och etik inom datateknik ](courses/ENM156.md)
+    - [ ERE103	Reglerteknik ](courses/ERE103.md)
+
+# Lexikon
+ - [ Sevärdigheter ]()
+
+# Databoken (META)
+ - [ Hur bidrar jag till databoken? ](meta/contribute.md)
+ - [ Saker som bör uppdateras regelbundet ](meta/update.md)

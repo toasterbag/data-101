@@ -1,0 +1,22 @@
+[book]
+authors = ["David Hedgren"]
+language = "sv"
+multilingual = false
+src = "src"
+title = "Data 101"
+
+[rust]
+edition = "2018"
+
+[preprocessor.index]
+
+[preprocessor.links]
+
+[output.html]
+additional-css = ["gruvbox.css"]
+
+[output.html.search]
+limit-results = 10
+
+[preprocessor.lint]
+command = "book-linter.sh"
