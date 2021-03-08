@@ -1,5 +1,23 @@
+# Lite random bra punkter
+  * Vilka jobb kan man bli efter en master?
+  * Inte stor skillnad mellan MPALG och MPDSC
+
+# Grupprum
+ * Hur man bokar
+ * Hur bokar man FL sal
+ * Fritt fram efter 30 min
+
+ # Lexikon
+  * Monad
+
+# Vart kan man äta?
+  * Kår
+  * Alpa
+  * Linsen
+  * Andra
+
 # Ankät
-  - År du började
+  - när du började
   - vilket år läser du nu
   - vilka kurser har du efter dig?
   - Köper du kurslitteratur? (ja, nej, nej internet)
@@ -12,4 +30,4 @@
   - Bästa 3 labbarna
   - Sämsta 3 labbarna
   - aktiv under mottagningen
-  - 
+  - play

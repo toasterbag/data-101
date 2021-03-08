@@ -40,6 +40,7 @@
     - [ ERE103	Reglerteknik ](courses/ERE103.md)
 
 # Lexikon
+ - [ Viktigt folk ](lexicon/people.md)
  - [ Sevärdigheter ]()
 
 # Databoken (META)

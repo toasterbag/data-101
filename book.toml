@@ -13,10 +13,15 @@ edition = "2018"
 [preprocessor.links]
 
 [output.html]
-additional-css = ["gruvbox.css"]
+#additional-css = ["gruvbox.css"]
 
 [output.html.search]
 limit-results = 10
 
-[preprocessor.lint]
-command = "book-linter.sh"
+[preprocessor.variables]
+command = "./expand-variables/target/release/expand-variables"
+
+[variables]
+CURRENT_UBS = "[Hadi Zarshamfar](mailto:hadi.zarshamfar@chalmers.se)"
+CURRENT_SYV = "[Ingegerd Nilsson](mailto:ingegerd.nilsson@chalmers.se)"
+CURRENT_PA = "[Magnus Almgren](mailto:magnus.almgren@chalmers.se)"
